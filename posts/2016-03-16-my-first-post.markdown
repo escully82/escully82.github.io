@@ -5,6 +5,7 @@ Here is some text
 Here is some _italicized_ text or *italicized* text
 
 Here is some **bold** text
+
 Here is a 'code snippet'
 
 ```ruby
